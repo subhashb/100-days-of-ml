@@ -30,3 +30,20 @@
 * Need to dive deeper in matplotlib - seems to have amazing graphing abilities
 
 **Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/d0de7fd585b157432f5ee9339155921fe007ce6e)
+
+
+## Day 2: April 26, 2018
+
+**Theme**: Scikit Tutorial
+
+**Today's Progress**:
+* Practised GridSearch and Cross-validated estimators
+* Completed exercise of finding optimal regularization parameter alpha
+* Practised K-Means Clustering
+* Understood Hierarchical Agglomerative clustering
+
+**Thoughts**:
+* `scipy.misc.imresize` seems to have been deprecated, and I couldn't find an alternative!
+* Scipy tutorial makes a ton of assumptions on our current knowledge - Difficult to consume without background information=
+
+**Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/fb6450c43c35e9371edf4b53a477f1aa04d3a90d)
