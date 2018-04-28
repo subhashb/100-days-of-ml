@@ -32,7 +32,7 @@
 **Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/d0de7fd585b157432f5ee9339155921fe007ce6e)
 
 
-## Day 2: April 26, 2018
+## Day 3: April 27, 2018
 
 **Theme**: Scikit Tutorial
 
@@ -45,5 +45,21 @@
 **Thoughts**:
 * `scipy.misc.imresize` seems to have been deprecated, and I couldn't find an alternative!
 * Scipy tutorial makes a ton of assumptions on our current knowledge - Difficult to consume without background information=
+
+**Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/fb6450c43c35e9371edf4b53a477f1aa04d3a90d)
+
+
+## Day 4: April 28, 2018
+
+**Theme**: Scikit Tutorial
+
+**Today's Progress**:
+* Practised Decompositions (PCA and ICA)
+* Exercise: Pipelining (Decomposition followed by Prediction)
+* Exercise: Face Recognition with eigenfaces
+
+**Thoughts**:
+* Somebody should outline who data can be transformed, the need for it and the various options available; Right now, it's just a bunch of commands in numpy!
+* Cool methods in scikit like GridSearchCV, train_test_split and classification_report!
 
 **Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/fb6450c43c35e9371edf4b53a477f1aa04d3a90d)
