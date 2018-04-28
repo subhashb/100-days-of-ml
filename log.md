@@ -62,4 +62,4 @@
 * Somebody should outline who data can be transformed, the need for it and the various options available; Right now, it's just a bunch of commands in numpy!
 * Cool methods in scikit like GridSearchCV, train_test_split and classification_report!
 
-**Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/fb6450c43c35e9371edf4b53a477f1aa04d3a90d)
+**Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/64b34ee40aba9ddddc50b022e5538824602a49d4)
