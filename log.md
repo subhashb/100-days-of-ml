@@ -63,3 +63,18 @@
 * Cool methods in scikit like GridSearchCV, train_test_split and classification_report!
 
 **Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/64b34ee40aba9ddddc50b022e5538824602a49d4)
+
+
+## Day 5: April 29, 2018
+
+**Theme**: Kaggle - Titanic Survival Prediction
+
+**Today's Progress**:
+* Data download/setup
+* Data Cleanup
+    * Substitute for missing values in Age, Cabin and Embarked
+
+**Thoughts**:
+* There are tons of tutorials on how to analyse Titanic dataset from Kaggle, but it's worth having a go at it by myself and referring to other implementations for ideas
+
+**Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/077946d169cfe76055d18735a035909d2183b260)
