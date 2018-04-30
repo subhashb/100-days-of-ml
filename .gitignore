@@ -105,3 +105,8 @@ ENV/
 
 # Mac
 .DS_Store
+
+# Custom
+*.csv
+*.zip
+data/
