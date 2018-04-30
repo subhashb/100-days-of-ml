@@ -78,3 +78,18 @@
 * There are tons of tutorials on how to analyse Titanic dataset from Kaggle, but it's worth having a go at it by myself and referring to other implementations for ideas
 
 **Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/077946d169cfe76055d18735a035909d2183b260)
+
+
+## Day 6: April 30, 2018
+
+**Theme**: Kaggle - 5 Day Data Cleaning Challenge
+
+**Today's Progress**:
+* Handling Missing Values and Imputation
+* Scaling and Normalizing Data Values
+
+**Thoughts**:
+* Decided to dive deeper into data cleaning and transformation, to help with Titanic Analysis
+* Need to understand more about scaling and normalizing data for practical applications
+
+**Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/2b8ce4c1f9810ad2af6b42a31f1ad573ac1f2a4f)
