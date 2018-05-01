@@ -9,3 +9,5 @@ tensorflow==1.7.0
 keras==2.1.5
 scikit-image==0.13.1
 pandas==0.22.0
+chardet==3.0.4
+fuzzywuzzy==0.16.0
