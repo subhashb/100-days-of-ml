@@ -93,3 +93,18 @@
 * Need to understand more about scaling and normalizing data for practical applications
 
 **Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/2b8ce4c1f9810ad2af6b42a31f1ad573ac1f2a4f)
+
+
+## Day 7: May 1, 2018
+
+**Theme**: Kaggle - 5 Day Data Cleaning Challenge
+
+**Today's Progress**:
+* Parse dates from strings in dataset
+* Fix Character encoding issues in files
+* Handle inconsistencies in data
+
+**Thoughts**:
+* Amazing to see such data transformation utilities built right into pandas and numpy; save time as long as you know they exist!
+
+**Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/228e1e69390ceae4448aadcba052c7d09a98fe71)
