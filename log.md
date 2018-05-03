@@ -108,3 +108,30 @@
 * Amazing to see such data transformation utilities built right into pandas and numpy; save time as long as you know they exist!
 
 **Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/228e1e69390ceae4448aadcba052c7d09a98fe71)
+
+
+## Day 8: May 2, 2018
+
+**Theme**: Kaggle - Titanic Survival Prediction
+
+**Today's Progress**:
+* Learn about different Data Analysis techniques
+* Implement a linear regression classifier to predict missing age values
+
+**Thoughts**:
+* It's pretty frustrating to go blind into the task and start from scratch with reading. But this is probably only the way to complete understanding. Looking up a tutorial and finishing this task is going to be a snap, but what will I ultimately derive?
+
+
+## Day 9: May 3, 2018
+
+**Theme**: Kaggle - Titanic Survival Prediction
+
+**Today's Progress**:
+* Come up with a more elegant technique to fill missing Age values (Yey, Interpolation!)
+* Clean dataset and fix values where missing in all columns
+* Create Box Plots on Fare and Age to detect outliers
+
+**Thoughts**:
+* `value_counts()` and `interpolate` blew my mind! They indeed have thought about everything in Pandas.
+
+**Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/df1a70032b300d2160d62aba6c72e0b74e16afbb)
