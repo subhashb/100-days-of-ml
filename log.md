@@ -135,3 +135,19 @@
 * `value_counts()` and `interpolate` blew my mind! They indeed have thought about everything in Pandas.
 
 **Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/df1a70032b300d2160d62aba6c72e0b74e16afbb)
+
+
+## Day 10: May 4, 2018
+
+**Theme**: Kaggle - Titanic Survival Prediction
+
+**Today's Progress**:
+* Outlier Detection among Fare and Age columns (decided not to eliminate any outliers)
+* Data preparation - convert string columns to numeric values
+* Feature Selection - using Univariate Selection with sklearn's SelectKBest and `chi2` score function
+
+**Thoughts**:
+* Getting the hang of data analysis and preparation now; over time, a list of best practices should emerge
+* The best output may be found probably with different data configurations (outliers, normalization etc.) along with different models
+
+**Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/bd35a8d2b973c16939e1c4c51e32c8e8bf0cbd37)
