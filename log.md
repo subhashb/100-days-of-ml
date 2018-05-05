@@ -151,3 +151,19 @@
 * The best output may be found probably with different data configurations (outliers, normalization etc.) along with different models
 
 **Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/bd35a8d2b973c16939e1c4c51e32c8e8bf0cbd37)
+
+
+## Day 11: May 5, 2018
+
+**Theme**: Kaggle - Titanic Survival Prediction
+
+**Today's Progress**:
+* Feature Selection using Recursive, PCA and Feature Importance methods
+* Logistic Regression with different feature sets
+* Parameter optimisation with Cross Validation and GridSearchCV
+
+**Thoughts**:
+* Seems like getting to 80-81% of accuracy is fairly easy with the dataset, and just simple LogisticRegression was able to achieve this score.
+* It's finally getting a little exciting to experiment with acutal models and see how different parameters affect the fit; at this stage, the more the number of mistakes, the better learning it is.
+
+**Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/c587a8de6c601c0ab525c3a02e3a428213caff38)
