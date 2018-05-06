@@ -167,3 +167,20 @@
 * It's finally getting a little exciting to experiment with acutal models and see how different parameters affect the fit; at this stage, the more the number of mistakes, the better learning it is.
 
 **Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/c587a8de6c601c0ab525c3a02e3a428213caff38)
+
+
+## Day 12: May 6, 2018
+
+**Theme**: Kaggle - Titanic Survival Prediction
+
+**Today's Progress**:
+* Support Vector Classification with different kernels 
+* SVC Parameter optimisation with Cross Validation and GridSearchCV (Best score was 0.792 at C=1000 for Linear kernel)
+
+**Thoughts**:
+* Polynomial SVC took too long to complete. May have to run it overnight to see results.
+* Though `rbf` is the default kernel, the best results were achieved with a Linear SVC suggesting that defaults may not always be the best options
+* For C=1000, the linear kernel SVC took 39 minutes to complete. I should probably run on that on an Azure/AWS GPU and measure performance against my laptop.
+
+**Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/6590dcc778ff33e2425e8b770cc97beba03afb80)
+
