@@ -184,3 +184,18 @@
 
 **Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/6590dcc778ff33e2425e8b770cc97beba03afb80)
 
+
+## Day 13: May 8, 2018
+
+**Theme**: Kaggle - Titanic Survival Prediction
+
+**Today's Progress**:
+* Neural networks - MLPClassifier - with Cross validation
+* Prepping to submit for Kaggle Competition
+
+**Thoughts**:
+* Neural Networks delivered the best scores, better than Logistic Regression and SVM, at around 85% accuracy.
+* Not sure why, but I see varying results every time I try to predict survival on the test data set. Needs investigation.
+
+**Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/9d71267876b99e88fa29da3a447094c9d2e481b9)
+
