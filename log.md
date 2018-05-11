@@ -213,5 +213,5 @@
 * So just like that, I have started putting out my models and algorithms out there into the world!
 * While my initial submissions will be weak, I should periodically revisit and resubmit refactored models based on my learning
 
-**Link to work**: [Commit]()
+**Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/ce5c873f693877106be6c4976757a0c24e894339)
 
