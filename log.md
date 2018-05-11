@@ -199,3 +199,19 @@
 
 **Link to work**: [Commit](https://github.com/subhashb/100-days-of-ml/commit/9d71267876b99e88fa29da3a447094c9d2e481b9)
 
+
+## Day 14: May 11, 2018
+
+**Theme**: Kaggle - Titanic Survival Prediction
+
+**Today's Progress**:
+* Generated predictions on Test Data
+* Submitted my first entry into a Kaggle competition (Score: 0.74641)!
+* Started with Multiclass Classification problem of Poker Hand
+
+**Thoughts**:
+* So just like that, I have started putting out my models and algorithms out there into the world!
+* While my initial submissions will be weak, I should periodically revisit and resubmit refactored models based on my learning
+
+**Link to work**: [Commit]()
+
